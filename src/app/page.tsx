@@ -99,8 +99,7 @@ export default function Home() {
             <div className="lg:w-[38%] flex flex-col items-start gap-12 lg:pt-1">
               <SectionReveal>
                 <p className="text-[15px] md:text-[17px] leading-[1.75] text-white/50 max-w-[320px] text-left font-light">
-                  The combination of my passion for design, code &amp; interaction
-                  positions me in a unique place in the web design world.
+                  The combination of my curiosity for artificial intelligence, hands-on coding, and continuous learning places me at a unique intersection where I build intelligent systems that solve real-world problems.
                 </p>
               </SectionReveal>
 
